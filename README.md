@@ -11,18 +11,6 @@ Live demo: `https://cloudfare-llm.antonygc.workers.dev`
 
 ---
 
-## What this demonstrates (why this isn’t “just a wrapper”)
-
-This project separates:
-- **Orchestration** (Worker routes + request handling)
-- **State** (Durable Object memory)
-- **Inference** (Workers AI Llama model)
-- **Durable execution** (Workflows for longer multi-step tasks)
-- **UX** (chat UI + streaming)
-
-That’s the same core shape as real production AI features: state + coordination + inference + UI.
-
----
 
 ## Architecture
 
