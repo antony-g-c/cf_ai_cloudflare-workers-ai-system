@@ -1,8 +1,5 @@
 ---
 
-## PROMPTS.md
-
-```md
 # AI-Assisted Development Prompts
 
 This project was developed with the assistance of AI tools.
